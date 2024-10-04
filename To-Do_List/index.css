@@ -1,0 +1,48 @@
+body{
+    background-image: url(index.jpg);
+    background-repeat: round;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.main{
+    position: absolute;
+    top: 15%;
+    left:30%;
+    width: 550px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(89, 6, 6);
+    text-shadow: 1px 1px 1px #838383, 1px 1px 1px #838383, 1px 1px 1px #838383;
+    font-size: 20px;
+    line-height: 1.5;
+
+}
+.heading{
+    color: rgb(142, 141, 140);
+    text-align: center;
+    margin: 3%;
+    text-shadow: 1px 1px 1px #ffffff, 1px 1px 1px #ffffff, 1px 1px 1px #ffffff;
+}
+.btn{
+    width: 80px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 0 5px;  
+}
+#ul {
+    display: grid;
+    grid-template-columns: 544px;
+}
+#button-addon2 {
+    float: right;
+}
+#button-addon3 {
+    width: 120px;
+    float: right;
+}
+.list-group-item{
+    color: rgb(216, 208, 200);
+    background-color: #8383835b;
+}
