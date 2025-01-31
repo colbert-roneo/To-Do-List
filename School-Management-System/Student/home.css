@@ -1,0 +1,129 @@
+        body {
+            background-color: #f8f9fa69;
+        }
+        .hero {
+            background-color: #e2e2e250;
+            padding: 2rem;
+            text-align: center;
+            color: aliceblue;
+        }
+        .section {
+            padding: 2rem;
+            margin: 1rem;
+            background-color: #ffffff17;
+            border-radius: 8px;
+            color: aliceblue;
+            margin-bottom: 96px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #333;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #555;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 0.5rem;
+            width: 100%;
+            bottom: 0;
+            position: fixed;
+        }
+.main{
+    background-image: url(bgStudentDash.jpg);
+    background-attachment: fixed;
+    background-repeat: round;
+    background-size: cover;
+    color: aliceblueS;
+}
+.feature {
+    color: aliceblue;
+    padding: 2rem;
+    margin: 1rem;
+    background-color: #3e3b3b61;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 100px;
+}
+.feature-icon {
+    font-size: 2rem;
+    color: #007bff;
+
+}
+.about-section {
+    color: aliceblue;
+    padding: 2rem;
+    margin: 1rem;
+    background-color: #0000004a;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.team-member {
+    margin-bottom: 5rem;
+}
+h1{
+    text-shadow: 1px 1px 1px #333, 1px 1px 1px #333, 1px 1px 1px #333;  
+}
+/* Student */
+.profile-section {
+    padding: 2rem;
+    background-color: #ffffff76;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 2rem 0;
+}
+.attendance-section {
+    padding: 2rem;
+    background-color: #ffffff85;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 2rem 0;
+}
+.grades-section {
+    padding: 2rem;
+    background-color: #ffffff85;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 2rem 0;
+}
+.timetable-section {
+    padding: 2rem;
+    background-color: #ffffff85;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 2rem 0;
+}
+.table thead th {
+    background-color: #4384c9;
+    color: #fff;
+}
+.messages-section {
+    padding: 2rem;
+    background-color: #ffffff85;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 2rem 0;
+}
+.message {
+    padding: 1rem;
+    background-color: #e9ecef;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+}
+.message-sent {
+    background-color: #d1e7dd;
+}
+.fee-section {
+    padding: 2rem;
+    background-color: #ffffff85;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 2rem 0;
+}

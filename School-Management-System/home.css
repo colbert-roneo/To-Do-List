@@ -1,0 +1,74 @@
+yle>
+        body {
+            background-color: #f8f9fa69;
+        }
+        .hero {
+            background-color: #e2e2e250;
+            padding: 2rem;
+            text-align: center;
+            color: aliceblue;
+        }
+        .section {
+            padding: 2rem;
+            margin: 1rem;
+            background-color: #ffffff17;
+            border-radius: 8px;
+            color: aliceblue;
+            margin-bottom: 96px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #333;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #555;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 0.5rem;
+            width: 100%;
+            bottom: 0;
+            position: fixed;
+        }
+.main{
+    background-image: url(bghome.jpg);
+    background-attachment: fixed;
+    background-repeat: round;
+    background-size: cover;
+    color: aliceblueS;
+}
+.feature {
+    color: aliceblue;
+    padding: 2rem;
+    margin: 1rem;
+    background-color: #3e3b3b61;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 100px;
+}
+.feature-icon {
+    font-size: 2rem;
+    color: #007bff;
+
+}
+.about-section {
+    color: aliceblue;
+    padding: 2rem;
+    margin: 1rem;
+    background-color: #0000004a;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.team-member {
+    margin-bottom: 5rem;
+}
+h1{
+    text-shadow: 1px 1px 1px #ffffff, 1px 1px 1px #fff, 1px 1px 1px #fff;  
+}

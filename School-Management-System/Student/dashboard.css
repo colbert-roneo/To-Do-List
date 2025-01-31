@@ -1,0 +1,65 @@
+body {
+    background-color: #f8f9fa;
+    background-image: url(bgStudentDash.jpg);
+    background-attachment: fixed;
+    background-repeat: round;
+    background-size: cover;
+}
+.dashboard-section {
+    padding: 2rem;
+    background-color: #f0e3e300;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 2rem 0;
+}
+.container{
+    position: absolute;
+    top: 190px;
+    left: 6.5%;
+}
+.tile {
+    background-color: #106bb6ac;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    margin: 1rem 0;
+    transition: transform 0.2s;
+}
+.tile:hover {
+    transform: scale(1.05);
+}
+.tile-icon {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+footer {
+    background-color: #333333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+button{
+    width:425px;
+    border: 0px;
+    background-color: #f8f9fa00;
+}
+header{
+    color: rgb(182, 187, 46);
+}
+h1{
+    position: absolute;
+    top: 120px;
+    left: 40.5%;
+    text-overflow: ellipsis;
+    font-style: oblique;
+    font-weight: bolder;
+    text-shadow:1px 1px 1px #333, 1px 1px 1px #333, 1px 1px 1px #333;
+    font-family:fantasy;
+}
+h3,p{
+    text-shadow: .5px .5px .5px #333,.5px .5px .5px #333, .5px .5px .5px #333;
+}
